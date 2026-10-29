@@ -1,0 +1,2 @@
+Atlas synthetic mirror acceptance
+scenario=mirror-e2e-1793284935-public
